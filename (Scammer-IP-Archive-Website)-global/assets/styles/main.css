@@ -18,6 +18,9 @@ a {
   color: #4CFF00
 }
 
+hr {
+	border-color: #4CFF00;
+}
 .outer {
   font-family: outer;
   font-size: 18px;
