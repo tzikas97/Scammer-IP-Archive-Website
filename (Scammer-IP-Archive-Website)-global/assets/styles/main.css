@@ -1,0 +1,33 @@
+h1 {
+  font-family: outer;
+  width: 600px;
+  color: #4CFF00
+}
+
+p {
+  font-family: data;
+  font-size: 18px;
+  width: 700px;
+  color: #4CFF00
+}
+
+a {
+  font-family: data;
+  font-size: 18px;
+  width: 700px;
+  color: #4CFF00
+}
+
+.outer {
+  font-family: outer;
+  font-size: 18px;
+  width: 700px;
+  color: #4CFF00
+}
+
+.version-information {
+  font-size: 12px;
+  width: 700px;
+  color: #4CFF00;
+  font-family: outer
+}
