@@ -31,7 +31,7 @@
 
       <h1>Scammer IP Archive</h1>
 
-      <p class="outer">This is an archive of scammer IPs I was able to retrieve. I am 99.9% sure every IP here is a scammer. Most of these are from 419 scammers, but there may be some IRS / Tech Support Scam IPs here too. You may use these IP addresses however you want. To send to hackers, to hack yourself, to expose their locations to authorities, or whatever else. If you have a problem with this, feel free to <a href="mailto:eclipsemail@zoho.com" target="_blank">email me</a> so we can discuss it.</p>
+      <p class="outer">This is an archive of scammer IPs I was able to retrieve. I am 99.9% sure every IP here is a scammer. Most of these are from 419 scammers, but there may be some IRS / Tech Support Scam IPs here too. You may use these IP addresses however you want. To send to hackers, to hack yourself, to expose their locations to authorities, or whatever else. If you have a problem with this, feel free to <a class="outer" href="mailto:eclipsemail@zoho.com" target="_blank">email me</a> so we can discuss it.</p>
 
       <p class="outer">Note: This list goes from newest to oldest. Aka the top one will always be the newest.</p>
 
