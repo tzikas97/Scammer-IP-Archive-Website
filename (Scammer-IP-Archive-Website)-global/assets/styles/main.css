@@ -11,6 +11,35 @@ p {
   color: #4CFF00
 }
 
+.date {
+  font-family: outer;
+  font-size: 18px;
+  width: 700px;
+  color: #4CFF00
+}
+
+.author {
+  font-family: outer;
+  font-size: 18px;
+  width: 700px;
+  color: #4CFF00
+}
+
+
+blockquote {
+  font-family: outer;
+  font-size: 18px;
+  width: 700px;
+  color: #4CFF00
+}
+
+.hcb-comment-tb {
+  font-family: outer;
+  font-size: 18px;
+  width: 700px;
+  color: #4CFF00
+}
+
 a {
   font-family: data;
   font-size: 18px;

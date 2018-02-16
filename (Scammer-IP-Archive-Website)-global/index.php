@@ -40,6 +40,12 @@
         <a href="leaks/#.php">Leak Number | Leak Date</a><br />
 
       <hr />
+	  
+	<!-- begin wwww.htmlcommentbox.com -->
+		<div id="HCB_comment_box"><a href="http://www.htmlcommentbox.com">Widget</a> is loading comments...</div>
+		<link rel="stylesheet" type="text/css" href="//www.htmlcommentbox.com/static/skins/bootstrap/twitter-bootstrap.css?v=0" />
+		<script type="text/javascript" id="hcb"> /*<!--*/ if(!window.hcb_user){hcb_user={};} (function(){var s=document.createElement("script"), l=hcb_user.PAGE || (""+window.location).replace(/'/g,"%27"), h="//www.htmlcommentbox.com";s.setAttribute("type","text/javascript");s.setAttribute("src", h+"/jread?page="+encodeURIComponent(l).replace("+","%2B")+"&mod=%241%24wq1rdBcg%24dGlxIhg%2FxY3yyNo.8RmFu1"+"&opts=16862&num=10&ts=1518780659130");if (typeof s!="undefined") document.getElementsByTagName("head")[0].appendChild(s);})(); /*-->*/ </script>
+	<!-- end www.htmlcommentbox.com -->
 
       <p class="version-information"><a class="version-information" href="https://github.com/EclipseMain/Scammer-IP-Archive-Website" target="_blank">Scammer IP Archive Website</a> | 2018<br />Created by <a class="version-information" href="https://github.com/EclipseMain" target="_blank">EclipseMain</a></p>
 
