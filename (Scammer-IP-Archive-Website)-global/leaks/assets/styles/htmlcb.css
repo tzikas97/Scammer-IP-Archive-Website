@@ -1,0 +1,38 @@
+
+/* This is the CSS for HTML Comment Box */
+
+blockquote {
+  font-family: outer;
+  font-size: 18px;
+  width: 700px;
+}
+
+.hcb-comment-tb {
+  font-family: outer;
+  font-size: 18px;
+  width: 700px;
+}
+
+.date {
+  font-family: outer;
+  font-size: 18px;
+  width: 700px;
+}
+
+.author {
+  font-family: outer;
+  font-size: 18px;
+  width: 700px;
+}
+
+.outer {
+  font-family: outer;
+  font-size: 18px;
+  width: 700px;
+}
+
+.version-information {
+  font-size: 12px;
+  width: 700px;;
+  font-family: outer
+}

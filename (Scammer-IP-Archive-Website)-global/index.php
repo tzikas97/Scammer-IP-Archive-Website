@@ -7,11 +7,12 @@
 
       <!-- Meta -->
       <meta name="description" content="A huge archive of IP addresses from scammers.">
-      <meta name="keywords" content="scam, scammer, scamming, tech support scam, 419, 419eater, call, calling">
+      <meta name="keywords" content="scam, scammer, scamming, scambait, scambaiting, tech support scam, 419, 419eater, call, nigeria, calling">
       <meta name="author" content="Eclipse">
 
       <!-- Your Styles -->
       <link rel="stylesheet" href="assets/styles/main.css" />
+      <link rel="stylesheet" href="assets/styles/htmlcb.css" />
       <link rel="stylesheet" href="assets/styles/fonts.css" />
 
       <!-- Favicons -->
@@ -27,27 +28,23 @@
 
     </head>
 
-    <body style="background-color: #000">
+    <body style="background-color: #f1f1f1">
+      <center>
 
-      <h1>Scammer IP Archive</h1>
+        <p style="font-size: 56px">Scammer IP Archive</p>
 
-      <p class="outer">This is an archive of scammer IPs I was able to retrieve. I am 99.9% sure every IP here is a scammer. Most of these are from 419 scammers, but there may be some IRS / Tech Support Scam IPs here too. You may use these IP addresses however you want. To send to hackers, to hack yourself, to expose their locations to authorities, or whatever else. If you have a problem with this, feel free to <a class="outer" href="mailto:eclipsemail@zoho.com" target="_blank">email me</a> so we can discuss it.</p>
+        <p class="outer">This is an archive of scammer IPs I was able to retrieve. I am 99.9% sure every IP here is a scammer. Most of these are from 419 scammers, but there may be some IRS / Tech Support Scam IPs here too. You may use these IP addresses however you want. To send to hackers, to hack yourself, to expose their locations to authorities, or whatever else. If you have a problem with this, feel free to <a class="outer" href="mailto:eclipsemail@zoho.com" target="_blank">email me</a> so we can discuss it.</p>
 
       <p class="outer">Note: This list goes from newest to oldest. Aka the top one will always be the newest.</p>
 
-      <hr />
+        <hr />
 
-        <a href="leaks/#.php">Leak Number | Leak Date</a><br />
+          <a href="leaks/leak#.php">Leak Number | Leak Date</a><br />
 
-      <hr />
-	  
-	<!-- begin wwww.htmlcommentbox.com -->
-		<div id="HCB_comment_box"><a href="http://www.htmlcommentbox.com">Widget</a> is loading comments...</div>
-		<link rel="stylesheet" type="text/css" href="//www.htmlcommentbox.com/static/skins/bootstrap/twitter-bootstrap.css?v=0" />
-		<script type="text/javascript" id="hcb"> /*<!--*/ if(!window.hcb_user){hcb_user={};} (function(){var s=document.createElement("script"), l=hcb_user.PAGE || (""+window.location).replace(/'/g,"%27"), h="//www.htmlcommentbox.com";s.setAttribute("type","text/javascript");s.setAttribute("src", h+"/jread?page="+encodeURIComponent(l).replace("+","%2B")+"&mod=%241%24wq1rdBcg%24dGlxIhg%2FxY3yyNo.8RmFu1"+"&opts=16862&num=10&ts=1518780659130");if (typeof s!="undefined") document.getElementsByTagName("head")[0].appendChild(s);})(); /*-->*/ </script>
-	<!-- end www.htmlcommentbox.com -->
+        <hr />
 
-      <p class="version-information"><a class="version-information" href="https://github.com/EclipseMain/Scammer-IP-Archive-Website" target="_blank">Scammer IP Archive Website</a> | 2018<br />Created by <a class="version-information" href="https://github.com/EclipseMain" target="_blank">EclipseMain</a></p>
+        <p class="version-information"><a class="version-information" href="https://github.com/EclipseMain/Scammer-IP-Archive-Website" target="_blank">Scammer IP Archive Website</a> | 2018<br />Created by <a class="version-information" href="https://github.com/EclipseMain" target="_blank">Eclipse (Scambaiting)</a></p>
 
+      </center>
     </body>
   </html>

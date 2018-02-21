@@ -1,1 +1,0 @@
-Your IP leaks go here. Be sure to use template.html.

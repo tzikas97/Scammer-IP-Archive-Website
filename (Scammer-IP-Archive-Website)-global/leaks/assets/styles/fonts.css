@@ -1,0 +1,9 @@
+@font-face {
+    font-family: outer;
+    src: url(../fonts/outer.ttf);
+}
+
+@font-face {
+    font-family: data;
+    src: url(../fonts/data.ttf);
+}
