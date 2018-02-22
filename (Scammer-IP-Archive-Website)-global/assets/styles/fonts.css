@@ -1,9 +1,14 @@
 @font-face {
-    font-family: outer;
-    src: url(../fonts/outer.ttf);
+    font-family: title;
+    src: url(../fonts/title.ttf);
 }
 
 @font-face {
-    font-family: data;
-    src: url(../fonts/data.ttf);
+    font-family: paragraph;
+    src: url(../fonts/paragraph.ttf);
+}
+
+@font-face {
+    font-family: ip_addresses;
+    src: url(../fonts/ip_addresses.ttf);
 }

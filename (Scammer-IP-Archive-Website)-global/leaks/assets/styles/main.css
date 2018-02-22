@@ -1,26 +1,83 @@
+.paragraph {
+  font-family: paragraph;
+  font-size: 18px;
+  width: 700px;
+}
+
+.title {
+  font-family: title;
+  font-size: 64px;
+  line-height: 10px
+}
+
+.list_order {
+  color: red;
+  font-family: paragraph;
+  font-size: 12px
+}
+
+.notice {
+  color: red;
+  font-family: paragraph;
+  font-size: 18px
+}
+
+.version-information {
+  font-size: 12px;
+  width: 700px;
+  font-family: paragraph
+}
+
+
 /* This is the main CSS */
 
 body {
   background-color: #f1f1f1
 }
 
-h1 {
-  font-family: outer;
-  width: 600px;
-}
-
 p {
-  font-family: data;
-  font-size: 18px;
+  font-family: paragraph;
+  font-size: 20px;
   width: 700px
 }
 
 a {
-  font-family: data;
-  font-size: 18px;
+  font-family: paragraph;
+  font-size: 20px;
   width: 700px;
 }
 
 hr {
   width: 700px
+}
+
+/* Custom */
+
+.paragraph {
+  font-family: paragraph;
+  font-size: 18px;
+  width: 700px;
+}
+
+.title {
+  font-family: title;
+  font-size: 64px
+}
+
+.list_order {
+  color: red;
+  font-family: paragraph;
+  font-size: 12px
+}
+
+.notice {
+  color: red;
+  font-family: paragraph;
+  font-size: 18px
+}
+
+.version-information {
+  font-size: 12px;
+  width: 700px;
+  font-family: paragraph
 }

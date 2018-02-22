@@ -31,19 +31,20 @@
     <body style="background-color: #f1f1f1">
       <center>
 
-        <p style="font-size: 56px">Scammer IP Archive</p>
+        <p class="title">Scammer IP Archive</p>
 
-        <p class="outer">This is an archive of scammer IPs I was able to retrieve. I am 99.9% sure every IP here is a scammer. Most of these are from 419 scammers, but there may be some IRS / Tech Support Scam IPs here too. You may use these IP addresses however you want. To send to hackers, to hack yourself, to expose their locations to authorities, or whatever else. If you have a problem with this, feel free to <a class="outer" href="mailto:eclipsemail@zoho.com" target="_blank">email me</a> so we can discuss it.</p>
+          <p>This is an archive of scammer IPs I was able to retrieve. I am 99.9% sure every IP here is a scammer. Most of these are from 419 scammers, but there may be some IRS / Tech Support Scam IPs here too. You may use these IP addresses however you want. To send to hackers, to hack yourself, to expose their locations to authorities, or whatever else. If you have a problem with this, feel free to <a class="outer" href="mailto:eclipsemail@zoho.com" target="_blank">email me</a> so we can discuss it.</p>
 
-      <p class="outer">Note: This list goes from newest to oldest. Aka the top one will always be the newest.</p>
+          <p>Total IPs Archived: #</p>
 
         <hr />
 
+          <p class="list_order">Note: This list goes from newest to oldest. Aka the top one will always be the newest.</p>
           <a href="leaks/leak#.php">Leak Number | Leak Date</a><br />
 
         <hr />
 
-        <p class="version-information"><a class="version-information" href="https://github.com/EclipseMain/Scammer-IP-Archive-Website" target="_blank">Scammer IP Archive Website</a> | 2018<br />Created by <a class="version-information" href="https://github.com/EclipseMain" target="_blank">Eclipse (Scambaiting)</a></p>
+        <p class="version-information"><a class="version_information" style="font-size: 12px" href="https://github.com/EclipseMain/Scammer-IP-Archive-Website" target="_blank">Scammer IP Archive Website</a> | 2018<br />Created by <a class="version_information" style="font-size: 12px" href="https://github.com/EclipseMain" target="_blank">Eclipse (Scambaiting)</a></p>
 
       </center>
     </body>

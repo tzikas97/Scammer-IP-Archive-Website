@@ -30,17 +30,20 @@
     <body style="background-color: #f1f1f1">
       <center>
 
-        <p style="font-size: 56px">Leak # | Date</p>
-
-        <a class="outer" href="../index.php">Return to Main</a>
-
-        <hr />
-
-          <!-- Put your scammer IP leaks here. -->
+        <p class="title">(Leak # | Date)</p>
+        <a href="../index.php">Back to Main</a><br /><br />
 
         <hr />
 
-        <p class="version-information"><a class="version-information" href="https://github.com/EclipseMain/Scammer-IP-Archive-Website" target="_blank">Scammer IP Archive Website</a> | 2018<br />Created by <a class="version-information" href="https://github.com/EclipseMain" target="_blank">Eclipse (Scambaiting)</a></p>
+          <div class="ip_font">
+
+            <!-- Put your scammer IP leaks here. -->
+
+          </div>
+
+        <hr />
+
+        <p class="version-information"><a class="version_information" style="font-size: 12px" href="https://github.com/EclipseMain/Scammer-IP-Archive-Website" target="_blank">Scammer IP Archive Website</a> | 2018<br />Created by <a class="version_information" style="font-size: 12px" href="https://github.com/EclipseMain" target="_blank">Eclipse (Scambaiting)</a></p>
 
       </center>
     </body>
